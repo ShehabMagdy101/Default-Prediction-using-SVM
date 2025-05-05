@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 
-from model import CreditRiskModel
+from model_functions import CreditRiskModel
 
 app = Flask(__name__)
 
