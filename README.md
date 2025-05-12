@@ -1,11 +1,11 @@
 # Default-Prediction-using-SVM
 
-Using Logistic Regression, Python Flask Server and streamlit. I was able to build a robust machine learning project, that aqcuire relaibe back-end server and intuitive streamlit UI
+Using SVM, Python Flask Server and streamlit. I was able to build a robust machine learning project, that aqcuire relaibe back-end server and intuitive streamlit UI
 
 ## Project Overview
-the project include a machine learning model that can predict wheather someone's Loan demand Approved or Rejected based on some features
+the project include a machine learning model that can predict wheather someone's will default or not based on some features
 the project can be described in 3 main parts:
-- Machine learning model - a trained model that predicts the loan approval based on entered data.
+- Machine learning model - a trained model for prediction
 - Flask server -  an intermediate layer that act between the trained machine Learning model and the Streamlit UI.
 - Streamlit User Interface - a simple UI where user can enter data to get the prediction of Loan Approval.
 
